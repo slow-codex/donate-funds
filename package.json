@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "hardhat": "^2.13.0"
+    "hardhat": "^2.13.0",
+    "solhint": "^3.4.1"
   }
 }
