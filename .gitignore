@@ -1,11 +1,19 @@
+.encryptedKey.json
 node_modules
 .env
 coverage
 coverage.json
 typechain
-typechain-types
 
-# Hardhat files
+# vscode
+.vscode
+
+#Hardhat files
 cache
 artifacts
+.DS_Store
+deployments
 
+# Patrick
+.notes.md
+./node_modules
