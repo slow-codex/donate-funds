@@ -12,8 +12,14 @@ typechain
 cache
 artifacts
 .DS_Store
+gas-report.txt
 deployments
 
 # Patrick
 .notes.md
-./node_modules
+
+.npmignore
+.prettierignore
+.prettierrc
+.solhint.json
+.solhintignore
